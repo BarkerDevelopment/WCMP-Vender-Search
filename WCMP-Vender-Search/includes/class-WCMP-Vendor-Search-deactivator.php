@@ -16,11 +16,11 @@
  * This class defines all code necessary to run during the plugin's deactivation.
  *
  * @since      1.0.0
- * @package    Plugin_Name
- * @subpackage Plugin_Name/includes
- * @author     Your Name <email@example.com>
+ * @package    WCMP_Vendor_Search
+ * @subpackage WCMP_Vendor_Search/includes
+ * @author     Max Barker <hello@maxbarker.uk>
  */
-class Plugin_Name_Deactivator {
+class WCMP_Vendor_Search_Deactivator {
 
 	/**
 	 * Short Description. (use period)

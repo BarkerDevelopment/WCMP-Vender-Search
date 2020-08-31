@@ -17,11 +17,12 @@
  * the plugin, and register them with the WordPress API. Call the
  * run function to execute the list of actions and filters.
  *
- * @package    Plugin_Name
- * @subpackage Plugin_Name/includes
- * @author     Your Name <email@example.com>
+ * @since      1.0.0
+ * @package    WCMP_Vendor_Search
+ * @subpackage WCMP_Vendor_Search/includes
+ * @author     Max Barker <hello@maxbarker.uk>
  */
-class Plugin_Name_Loader {
+class WCMP_Vendor_Search_Loader {
 
 	/**
 	 * The array of actions registered with WordPress.
