@@ -70,9 +70,9 @@ class WCMP_Vendor_Search {
 		if ( defined( 'PLUGIN_NAME_VERSION' ) ) {
 			$this->version = PLUGIN_NAME_VERSION;
 		} else {
-			$this->version = '0.1.0';
+			$this->version = 'null';
 		}
-		$this->plugin_name = 'WCMP-Vender-Search';
+		$this->plugin_name = 'WC Marketplace - Vendor Search';
 
 		$this->load_dependencies();
 		$this->set_locale();

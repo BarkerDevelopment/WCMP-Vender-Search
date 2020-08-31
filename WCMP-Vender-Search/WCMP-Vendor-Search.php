@@ -1,8 +1,6 @@
 <?php
 
 /**
- * The plugin bootstrap file
- *
  * This file is read by WordPress to generate the plugin information in the plugin
  * admin area. This file also includes all of the dependencies used by the plugin,
  * registers the activation and deactivation functions, and defines a function
@@ -10,18 +8,18 @@
  *
  * @link              https://github.com/BarkerDevelopment/WCMP-Vendor-Search
  * @since             1.0.0
- * @package           WCMP-Vender-Search
+ * @package           WCMP_Vendor_Search
  *
  * @wordpress-plugin
- * Plugin Name:       WCMP-Vender-Search
+ * Plugin Name:       WC Marketplace - Vendor Search
  * Plugin URI:        https://github.com/BarkingDevelopment/WCMP-Vendor-Search
- * Description:
- * Version:           1.0.0
- * Author:            BarkerDevelopment
- * Author URI:        https://maxbarker.uk
+ * Description:       A WCMp add-on that allows customers to browse vendors.
+ * Version:           0.1.0
+ * Author:            Max Web Design
+ * Author URI:        https://maxweb.design
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
- * Text Domain:       WCMP-Vender-Search
+ * Text Domain:       WCMP-Vendor-Search
  * Domain Path:       /languages
  */
 
@@ -35,7 +33,7 @@ if ( ! defined( 'WPINC' ) ) {
  * Start at version 0.1.0 and use SemVer - https://semver.org
  * Rename this for your plugin and update it as you release new versions.
  */
-define( 'WCMP-Vender-Search', '0.1.0' );
+define( 'PLUGIN_NAME_VERSION', '0.1.0' );
 
 /**
  * The code that runs during plugin activation.
