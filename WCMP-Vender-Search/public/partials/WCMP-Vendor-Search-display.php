@@ -6,7 +6,7 @@
  * This file is used to markup the public-facing aspects of the plugin.
  *
  * @link       https://github.com/BarkingDevelopment/WCMP-Vendor-Search
- * @since      1.0.0
+ * @since      0.1.0
  *
  * @package    WCMP-Vendor-Search
  * @subpackage WCMP-Vendor-Search/public/partials

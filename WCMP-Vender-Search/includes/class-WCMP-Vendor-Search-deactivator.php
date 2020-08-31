@@ -4,7 +4,7 @@
  * Fired during plugin deactivation
  *
  * @link       http://example.com
- * @since      1.0.0
+ * @since      0.1.0
  *
  * @package    Plugin_Name
  * @subpackage Plugin_Name/includes
@@ -15,7 +15,7 @@
  *
  * This class defines all code necessary to run during the plugin's deactivation.
  *
- * @since      1.0.0
+ * @since      0.1.0
  * @package    WCMP_Vendor_Search
  * @subpackage WCMP_Vendor_Search/includes
  * @author     Max Barker <hello@maxbarker.uk>
@@ -27,7 +27,7 @@ class WCMP_Vendor_Search_Deactivator {
 	 *
 	 * Long Description.
 	 *
-	 * @since    1.0.0
+	 * @since    0.1.0
 	 */
 	public static function deactivate() {
 
